@@ -17,6 +17,7 @@ import yaml
 from grow import Piezo
 from grow.moisture import Moisture
 from grow.pump import Pump
+from twilio.rest import Client 
 
 
 FPS = 10
@@ -34,6 +35,9 @@ COLOR_YELLOW = (254, 219, 82)
 COLOR_RED = (247, 0, 63)
 COLOR_BLACK = (0, 0, 0)
 
+account_sid = 'AC2dde8fb3fd2950f0bd509a479c474ab9' 
+auth_token = '59c8d4c4d2c316bc93a6edeee1372c2e' 
+client = Client(account_sid, auth_token)
 
 # Only the ALPHA channel is used from these images
 icon_drop = Image.open("icons/icon-drop.png").convert("RGBA")
@@ -47,6 +51,12 @@ icon_channel = Image.open("icons/icon-channel.png").convert("RGBA")
 icon_backdrop = Image.open("icons/icon-backdrop.png").convert("RGBA")
 icon_return = Image.open("icons/icon-return.png").convert("RGBA")
 
+def sendMessage():
+    message = client.messages.create(  
+                              messaging_service_sid='MG1e395dae840436485eeaa150357f6fac', 
+                              body='testing',      
+                              to='+18322971186',
+                          )
 
 class View:
     def __init__(self, image):
@@ -617,7 +627,6 @@ class ChannelEditView(ChannelView, EditView):
         if "context" in option:
             self.draw_context((34, 6), option["context"])
 
-
 class Channel:
     colors = [
         COLOR_BLUE,
@@ -811,6 +820,8 @@ class Alarm(View):
             and self._triggered
             and time.time() - self._time_last_beep > self.interval
         ):
+            sendMessage()
+            
             self.piezo.beep(self.beep_frequency, 0.1, blocking=False)
             threading.Timer(
                 0.3,

@@ -13,5 +13,5 @@ def sendMessage():
                               to='+18322971186',
                           )
  
-for i in range(3):
+for i in range(1):
     sendMessage()
