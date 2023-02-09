@@ -30,6 +30,6 @@ channel3:
   wet_point: 3
 general:
   alarm_enable: true
-  alarm_interval: 2
+  alarm_interval: 3600
   black_screen_when_light_low: false
   light_level_low: 4.0
