@@ -12,7 +12,7 @@ message=\'"$hello"\'
 #git add and pass message var to git commit
 git add -A && git commit -a -m "$message"
 
-echo "Where to push?" | lolcat
+echo "Where to push?"
 #prefill current branch and prompt var to store a push branchname
 read -i "$current" -e branch
 #last chance before push -- prefill yes
