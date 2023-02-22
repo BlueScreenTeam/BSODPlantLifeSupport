@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/pi/gacp.sh" added="2023-02-22T14:56:26.434399Z" modified="2023-02-22T14:56:26.434419Z" visited="2023-02-22T14:56:26.434403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-02-22T14:56:26.434411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/BSODPlantLifeSupport/gacp.sh" added="2023-02-22T14:57:08.079014Z" modified="2023-02-22T15:25:04.589775Z" visited="2023-02-22T14:57:08.079018Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-02-22T14:57:08.079027Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-02-22T15:25:04.589768Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/BSODPlantLifeSupport/token" added="2023-02-22T15:23:27.981236Z" modified="2023-02-22T15:23:27.981254Z" visited="2023-02-22T15:23:27.981239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-02-22T15:23:27.981247Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

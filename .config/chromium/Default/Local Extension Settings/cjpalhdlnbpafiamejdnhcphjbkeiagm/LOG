@@ -1,0 +1,17 @@
+2023/02/22-08:45:32.831 513 Creating DB /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2023/02/22-08:45:32.853 513 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/02/22-08:45:43.316 514 Level-0 table #5: started
+2023/02/22-08:45:43.489 514 Level-0 table #5: 1759567 bytes OK
+2023/02/22-08:45:43.496 514 Delete type=0 #3
+2023/02/22-08:49:31.390 514 Level-0 table #7: started
+2023/02/22-08:49:31.600 514 Level-0 table #7: 2270641 bytes OK
+2023/02/22-08:49:31.605 514 Delete type=0 #4
+2023/02/22-08:56:38.048 522 Level-0 table #9: started
+2023/02/22-08:56:38.196 522 Level-0 table #9: 1771171 bytes OK
+2023/02/22-08:56:38.202 522 Delete type=0 #6
+2023/02/22-09:03:41.649 739 Level-0 table #11: started
+2023/02/22-09:03:41.837 739 Level-0 table #11: 1884755 bytes OK
+2023/02/22-09:03:41.842 739 Delete type=0 #8
+2023/02/22-09:03:42.197 739 Level-0 table #13: started
+2023/02/22-09:03:42.425 739 Level-0 table #13: 2935581 bytes OK
+2023/02/22-09:03:42.429 739 Delete type=0 #10

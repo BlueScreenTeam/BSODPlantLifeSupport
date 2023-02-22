@@ -1,0 +1,366 @@
+** Message: 08:39:42.111: environement.vala:58: Exporting primary_variable
+** Message: 08:39:42.111: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 08:39:42.111: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 08:39:42.111: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 08:39:42.111: environement.vala:218: custom_data :
+** Message: 08:39:42.111: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 08:39:42.111: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 08:39:42.111: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 08:39:42.112: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 08:39:42.114: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 08:39:42.114: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 08:39:42.114: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 08:39:42.114: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:662): WARNING **: 08:39:42.116: utils.vala:70: No such file or directory
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “windows_manager/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “file_manager/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “desktop_manager/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “launcher_manager/autostart” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “composite_manager/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “power_manager/command” in group “Session”
+** Message: 08:39:42.116: settings.vala:540: Key file does not have key “audio_manager/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “workspace_manager/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “screenshot_manager/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “upgrade_manager/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “upstart_user_session” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “network_gui/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “email/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “pdf_reader/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “video_player/command” in group “Session”
+** Message: 08:39:42.117: settings.vala:540: Key file does not have key “audio_player/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “image_display/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “text_editor/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “document/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “disk_utility/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have group “Keymap”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “laptop_mode” in group “State”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “gnome” in group “Dbus”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “type” in group “Environment”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “ubuntu_menuproxy” in group “Environment”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “toolkit_integration” in group “Environment”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “gtk/overlay_scrollbar_disable” in group “Environment”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “qt/force_theme” in group “Environment”
+** Message: 08:39:42.118: settings.vala:540: Key file does not have key “qt/platform” in group “Environment”
+** Message: 08:39:42.119: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 08:39:42.119: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 08:39:42.119: settings.vala:485: Monitoring home path: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 08:39:42.119: environement.vala:79: Exporting variable
+** Message: 08:39:42.119: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 08:39:42.119: environement.vala:177: custom_config :
+** Message: 08:39:42.119: environement.vala:178: config_dirs :/etc/xdg
+** Message: 08:39:42.119: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 08:39:42.119: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 08:39:42.119: environement.vala:218: custom_data :
+** Message: 08:39:42.119: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 08:39:42.119: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 08:39:42.120: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 08:39:42.120: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 08:39:42.120: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:662): WARNING **: 08:39:42.120: utils.vala:70: No such file or directory
+** Message: 08:39:42.120: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+
+** (lxsession:662): WARNING **: 08:39:42.125: process.vala:49: Failed to execute child process “xprop” (No such file or directory)
+
+** (lxsession:662): WARNING **: 08:39:42.125: process.vala:50: Error when launching xprop
+** Message: 08:39:42.125: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 08:39:42.125: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 08:39:42.125: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 08:39:42.125: options.vala:164: Activate xsettings_manager build-in
+** Message: 08:39:42.125: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 08:39:42.125: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:662): WARNING **: 08:39:42.125: utils.vala:70: No such file or directory
+** Message: 08:39:42.147: app.vala:728: polkit separate
+** Message: 08:39:42.147: app.vala:728: polkit separate
+** Message: 08:39:42.156: app.vala:76: Launching lxpolkit 
+** Message: 08:39:42.157: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 08:39:42.157: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 08:39:42.157: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 08:39:42.157: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 08:39:42.178: app.vala:76: Launching lxpanel 
+** Message: 08:39:42.196: app.vala:76: Launching pcmanfm 
+
+** (lxsession:662): WARNING **: 08:39:42.202: app.vala:86: Failed to execute child process “xscreensaver” (No such file or directory)
+
+** (lxsession:662): WARNING **: 08:39:42.202: app.vala:87: Error when launching xscreensaver
+** Message: 08:39:42.213: options.vala:107: Create build-in Clipboard
+** Message: 08:39:42.216: main.vala:450: Check keymap_mode (null)
+** Message: 08:39:42.224: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-ya8JsP5tjkz6/agent.827; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=836; export SSH_AGENT_PID;
+echo Agent pid 836;
+** Message: 08:39:42.409: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: 08:39:43.265: x-terminal-emulator has very limited support, consider choosing another terminal
+** Message: 08:39:43.393: x-terminal-emulator has very limited support, consider choosing another terminal
+grep: /home/pi/.config/lxpanel/LXDE-pi/panels/*: No such file or directory
+
+(mutter:802): Clutter-WARNING **: 08:39:44.280: Bogus presentation time 0 travelled back in time, using current time.
+** Message: 08:39:44.588: Connecting ...
+** Message: 08:39:44.589: Status changed to down
+
+** (lxpanel:809): CRITICAL **: 08:39:44.589: dhcpcd_open: Inappropriate ioctl for device
+Unit pt-device-manager.service could not be found.
+Unit pi-topd.service could not be found.
+
+** (lxpanel:809): WARNING **: 08:39:44.963: Battery 0 not found
+** Message: 08:39:45.226: up: No network connection - polling...
+** Message: 08:39:45.591: Status changed to opened
+** Message: 08:39:45.591: Connected to dhcpcd-8.1.2
+** Message: 08:39:45.592: Status changed to connecting
+** Message: 08:39:45.592: eth0: Link is down
+** Message: 08:39:45.592: wlan0: Associated with HISD-guest
+** Message: 08:39:45.595: wlan0: WPA status connected
+** Message: 08:39:48.137: wlan0: Configured 10.216.218.33/20
+** Message: 08:39:48.137: Status changed to connected
+
+(pcmanfm:812): Gtk-WARNING **: 08:44:15.052: Theme parsing error: <data>:2:27: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(pcmanfm:812): Gtk-WARNING **: 08:44:15.053: Theme parsing error: <data>:3:30: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0xc0002f
+** Message: 08:45:02.273: up: Checking for updates
+** Message: 08:45:15.066: up: Cache updated - comparing versions
+[1254:1254:0222/084517.620775:ERROR:component_loader.cc(188)] Failed to parse extension manifest.
+[1316:1316:0222/084517.671847:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is egl, ANGLE is 
+** Message: 08:45:21.221: up: Check complete - 277 updates available
+[1254:1341:0222/084527.153023:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+[1254:1341:0222/084527.153111:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+[1320:1323:0222/084531.521492:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1320:1323:0222/084531.708442:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1320:1323:0222/084537.707474:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1320:1323:0222/084540.183249:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1316:1350:0222/084540.570625:ERROR:node_controller.cc(585)] Trying to re-add dropped peer D2C3DBE53B24EA47.4AC6A49FAF7460D4
+[1327:4:0222/084616.622777:ERROR:node_controller.cc(585)] Trying to re-add dropped peer EF3408F10B939F69.67AF106883E2F07
+[1327:4:0222/084624.616517:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 724B9EF766A2A32B.E4BD262592097F59
+[1320:1323:0222/085244.792570:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1316:1350:0222/085244.987011:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 4431EF47466B226D.4EF1D7D425FAC7B8
+[1316:1350:0222/085440.906617:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 26C95029F2E3A1A0.6C75209177B21ACE
+[1327:4:0222/085440.922559:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 26C95029F2E3A1A0.6C75209177B21ACE
+[1327:4:0222/085446.531986:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 24D084EB7F7F123E.4A5C35D8E5456D9C
+Window manager warning: WM_TRANSIENT_FOR window 0xc03351 for 0xc035cb window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0xc03049.
+
+** (lxpanel:809): WARNING **: 08:56:23.215: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.216: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.216: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.217: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.217: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): Gdk-CRITICAL **: 08:56:23.217: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 08:56:23.217: gdk_display_get_monitor_at_window: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 08:56:23.217: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 08:56:23.217: gdk_display_get_n_monitors: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): GLib-GObject-CRITICAL **: 08:56:23.217: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (lxpanel:809): WARNING **: 08:56:23.218: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.218: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.218: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.218: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:56:23.221: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): GLib-CRITICAL **: 08:56:23.221: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+** (lxpanel:809): WARNING **: 08:56:23.226: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.626: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.626: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.626: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.627: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.627: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): Gdk-CRITICAL **: 08:57:04.627: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 08:57:04.627: gdk_display_get_monitor_at_window: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 08:57:04.627: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 08:57:04.627: gdk_display_get_n_monitors: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): GLib-GObject-CRITICAL **: 08:57:04.627: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (lxpanel:809): WARNING **: 08:57:04.627: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.628: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.629: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.629: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.629: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): GLib-CRITICAL **: 08:57:04.629: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+** (lxpanel:809): WARNING **: 08:57:04.632: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 08:57:04.656: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.841: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.841: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.841: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.842: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.842: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): Gdk-CRITICAL **: 09:04:53.842: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:04:53.842: gdk_display_get_monitor_at_window: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:04:53.842: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:04:53.842: gdk_display_get_n_monitors: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): GLib-GObject-CRITICAL **: 09:04:53.842: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (lxpanel:809): WARNING **: 09:04:53.842: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.843: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.844: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.844: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.844: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): GLib-CRITICAL **: 09:04:53.844: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+** (lxpanel:809): WARNING **: 09:04:53.848: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:04:53.859: lxpanel : X error: BadWindow (invalid Window parameter)
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+/home/pi/gacp.sh: line 15: lolcat: command not found
+/home/pi/gacp.sh: line 19: lolcat: command not found
+/home/pi/gacp.sh: line 25: lolcat: command not found
+[1320:1323:0222/090735.477384:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1327:4:0222/090735.717394:ERROR:node_controller.cc(585)] Trying to re-add dropped peer DBA6AA1C41991E4A.53CBF8F2EDC7C537
+[1316:1350:0222/090735.717490:ERROR:node_controller.cc(585)] Trying to re-add dropped peer DBA6AA1C41991E4A.53CBF8F2EDC7C537
+[1316:1350:0222/090742.090701:ERROR:node_controller.cc(585)] Trying to re-add dropped peer AF856225BAEE749.4D044631C298396D
+[1320:1323:0222/090751.717844:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1316:1350:0222/091031.649512:ERROR:node_controller.cc(585)] Trying to re-add dropped peer D1C067FF94D5E2C4.8B27E68DC523E3A
+[1316:1350:0222/091037.650510:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 3769BA217B1A1445.7F361FC37F0E38B
+[1327:4:0222/091037.689671:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 3769BA217B1A1445.7F361FC37F0E38B
+[1327:4:0222/091101.148309:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 610049AAB1176F93.5C792D277A5C2142
+[1316:1350:0222/091101.148795:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 610049AAB1176F93.5C792D277A5C2142
+
+** (lxpanel:809): WARNING **: 09:17:06.404: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.404: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.404: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.409: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.410: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): Gdk-CRITICAL **: 09:17:06.410: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:17:06.410: gdk_display_get_monitor_at_window: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:17:06.410: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:17:06.410: gdk_display_get_n_monitors: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): GLib-GObject-CRITICAL **: 09:17:06.410: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (lxpanel:809): WARNING **: 09:17:06.411: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.411: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.411: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.411: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:17:06.412: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): GLib-CRITICAL **: 09:17:06.412: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+[1320:1323:0222/091751.336498:ERROR:node_controller.cc(585)] Trying to re-add dropped peer F2DB2F4A7E022BD6.812AC97F861A5B31
+[1316:1350:0222/092121.350785:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 68BCABDA5DBD76AC.295D685A466E240B
+[1327:4:0222/092132.477302:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 6ABABC4C931D1FF7.DED19CB84101BD6C
+[1316:1350:0222/092132.477823:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 6ABABC4C931D1FF7.DED19CB84101BD6C
+
+** (lxpanel:809): WARNING **: 09:23:26.429: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.432: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.433: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.434: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.434: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): Gdk-CRITICAL **: 09:23:26.434: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:23:26.435: gdk_display_get_monitor_at_window: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:23:26.435: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:809): Gdk-CRITICAL **: 09:23:26.435: gdk_display_get_n_monitors: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(lxpanel:809): GLib-GObject-CRITICAL **: 09:23:26.435: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (lxpanel:809): WARNING **: 09:23:26.438: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.438: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.438: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.439: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:809): WARNING **: 09:23:26.439: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:809): GLib-CRITICAL **: 09:23:26.439: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+** (lxpanel:809): WARNING **: 09:23:26.454: lxpanel : X error: BadWindow (invalid Window parameter)
+Window manager warning: WM_TRANSIENT_FOR window 0xe061db for 0xe0624c window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0xe00006.
+
+(pcmanfm:812): Gtk-WARNING **: 09:24:46.726: gtk_menu_detach(): menu is not attached
+
+(pcmanfm:812): Gtk-WARNING **: 09:24:59.383: gtk_menu_detach(): menu is not attached
