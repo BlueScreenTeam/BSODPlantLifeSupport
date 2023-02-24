@@ -1,9 +1,6 @@
-2023/02/22-08:45:17.380 5 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2023/02/22-08:45:17.384 5 Recovering log #4
-2023/02/22-08:45:17.396 5 Reusing old log /home/pi/.config/chromium/Default/Local Storage/leveldb/000004.log 
-2023/02/22-08:46:49.011 5 Level-0 table #8: started
-2023/02/22-08:46:49.029 5 Level-0 table #8: 47057 bytes OK
-2023/02/22-08:46:49.038 5 Delete type=0 #4
-2023/02/22-09:21:56.306 f Level-0 table #10: started
-2023/02/22-09:21:56.324 f Level-0 table #10: 49558 bytes OK
-2023/02/22-09:21:56.332 f Delete type=0 #7
+2023/02/24-09:22:30.394 3 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/24-09:22:30.398 3 Recovering log #20
+2023/02/24-09:22:30.409 3 Reusing old log /home/pi/.config/chromium/Default/Local Storage/leveldb/000020.log 
+2023/02/24-09:23:39.629 3 Level-0 table #24: started
+2023/02/24-09:23:40.795 3 Level-0 table #24: 33015 bytes OK
+2023/02/24-09:23:40.802 3 Delete type=0 #20

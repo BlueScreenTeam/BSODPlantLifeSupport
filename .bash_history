@@ -20,3 +20,20 @@ cd /home/pi/BSODPlantLifeSupport
 ls
 git config --global user.email "bsodwastaken@gmail.com"
 git config --global user.name "BlueScreenTeam"
+git config --global user.email "bsodwastaken@gmail.com"
+/home/pi/BSODPlantLifeSupport/gacp.sh
+cd BSODPlantLifeSupport
+git add ./
+git comit -m"test"
+git commit -m"test"
+git push -u origin master
+git add ./
+git commit -m"test"
+git push -u origin master
+sudo rebooot
+sudo reboot
+ssh-keygen -t rsa -C bsodwastaken@gmail.com
+sudo adduser git
+mkdir /home/git/repos/
+sudo mkdir /home/git/repos/
+sudo -s -u git

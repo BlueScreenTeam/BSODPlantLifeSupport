@@ -1,3 +1,5 @@
 [user]
 	email = bsodwastaken@gmail.com
 	name = BlueScreenTeam
+[init]
+	defaultBranch = master

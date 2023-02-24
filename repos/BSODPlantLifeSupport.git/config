@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "origin"]
+	url = git://git@10.217.211.142:22/home/git/repos/BSODPlantLifeSupport.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

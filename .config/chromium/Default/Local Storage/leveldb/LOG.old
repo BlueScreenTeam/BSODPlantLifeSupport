@@ -1,5 +1,18 @@
-2023/02/17-09:56:48.151 3 Creating DB /home/pi/.config/chromium/Default/Local Storage/leveldb since it was missing.
-2023/02/17-09:56:48.229 3 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2023/02/17-10:02:34.902 8 Level-0 table #5: started
-2023/02/17-10:02:34.924 8 Level-0 table #5: 56594 bytes OK
-2023/02/17-10:02:34.935 8 Delete type=0 #3
+2023/02/24-08:48:06.362 3 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/24-08:48:06.369 3 Recovering log #14
+2023/02/24-08:48:06.383 3 Reusing old log /home/pi/.config/chromium/Default/Local Storage/leveldb/000014.log 
+2023/02/24-09:06:33.512 7 Level-0 table #18: started
+2023/02/24-09:06:33.527 7 Level-0 table #18: 37064 bytes OK
+2023/02/24-09:06:33.535 7 Delete type=0 #14
+2023/02/24-09:06:33.536 7 Compacting 4@0 + 1@1 files
+2023/02/24-09:06:33.558 7 Generated table #19@0: 78 keys, 23591 bytes
+2023/02/24-09:06:33.559 7 Compacted 4@0 + 1@1 files => 23591 bytes
+2023/02/24-09:06:33.565 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/24-09:06:33.567 7 Delete type=2 #8
+2023/02/24-09:06:33.567 7 Delete type=2 #10
+2023/02/24-09:06:33.567 7 Delete type=2 #13
+2023/02/24-09:06:33.567 7 Delete type=2 #15
+2023/02/24-09:06:33.567 7 Delete type=2 #18
+2023/02/24-09:12:31.875 c Level-0 table #21: started
+2023/02/24-09:12:31.912 c Level-0 table #21: 46544 bytes OK
+2023/02/24-09:12:31.922 c Delete type=0 #17

@@ -1,4 +1,4 @@
-Xsession: X session started for pi at Wed 22 Feb 2023 08:39:40 AM CST
+Xsession: X session started for pi at Fri 24 Feb 2023 09:21:53 AM CST
 WARNING: tempfile is deprecated; consider using mktemp instead.
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting DISPLAY=:0
@@ -28,7 +28,7 @@ dbus-update-activation-environment: setting NO_AT_BRIDGE=1
 dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
 dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
 dbus-update-activation-environment: setting PWD=/home/pi
-** Message: 08:39:41.932: main.vala:103: Session is LXDE-pi
-** Message: 08:39:41.933: main.vala:104: DE is LXDE
-** Message: 08:39:42.103: main.vala:135: log directory: /home/pi/.cache/lxsession/LXDE-pi
-** Message: 08:39:42.103: main.vala:136: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+** Message: 09:21:55.117: main.vala:103: Session is LXDE-pi
+** Message: 09:21:55.117: main.vala:104: DE is LXDE
+** Message: 09:21:55.293: main.vala:135: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 09:21:55.293: main.vala:136: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
